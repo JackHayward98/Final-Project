@@ -1,6 +1,6 @@
 Jack Haywards Log Book
 
-31/05/2019
+31/01/2019
     In this session i created a new virtual mechine in Virtual Box. From here i then installed the necessary add ons using get-apt. Next i     followed this tutorial https://docs.docker.com/get-started/ that had 3 steps to it, i mangaged to complete 2. The first part was
     downloading docker and running the simple 'hello-world image'. The second step allowed me to create a container, a container is made
     up of three files, the main dokcerfile that acts as the main settings page that lays out what language to use, where the wroking and 
