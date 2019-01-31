@@ -1,1 +1,8 @@
 Jack Haywards Log Book
+
+31/05/2019
+    In this session i created a new virtual mechine in Virtual Box. From here i then installed the necessary add ons using get-apt. Next i     followed this tutorial https://docs.docker.com/get-started/ that had 3 steps to it, i mangaged to complete 2. The first part was
+    downloading docker and running the simple 'hello-world image'. The second step allowed me to create a container, a container is made
+    up of three files, the main dokcerfile that acts as the main settings page that lays out what language to use, where the wroking and 
+    current directorys are, the port nnumber and what file to run when the container is launched. The second was the requiremetns text
+    file that contained the name of the imports fo rthe app file, the app file imported the necessary libraries. Here we also set up our       connection to redis with conditions for if connections cant be made. This is also where the HTML is layed out that will be displayed       on the website. The last step was running the app and pushing the image to my docker account. Task 3 to follow!
